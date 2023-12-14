@@ -1,4 +1,10 @@
-unreleased
+expresslessdebug 1.0.0 / 2023-12-14
+===================
+
+  * Remove references to debug
+  * Remove deps: debug@2.6.9
+
+Express.js - unreleased
 ==========
 
   * Fix routing requests without method
