@@ -52,7 +52,7 @@
     "range-parser": "~1.2.1",
     "safe-buffer": "5.2.1",
     "sendlessdebug": "git+https://github.com/tphmonash/sendlessdebug.git",
-    "serve-static": "1.15.0",
+    "serve-staticlessdebug": "git+https://github.com/tphmonash/serve-staticlessdebug.git",
     "setprototypeof": "1.2.0",
     "statuses": "2.0.1",
     "type-is": "~1.6.18",
