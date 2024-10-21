@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "accepts": "^2.0.0",
-    "body-parser": "git+https://github.com/tphmonash/body-parserlessdebug.git",
+    "body-parserlessdebug": "git+https://github.com/tphmonash/body-parserlessdebug.git",
     "content-disposition": "^1.0.0",
     "content-type": "~1.0.4",
     "cookie": "0.7.1",
